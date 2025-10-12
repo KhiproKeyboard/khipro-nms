@@ -6,7 +6,7 @@ To use **Khipro** on the **Nms Kontho** keyboard:
 
 **Note:** To get the full **Khipro experience** on **Kontho**, disable the keyboard’s **Typing Mode** (suggestion bar) and use it.
 
-**Acknowledgment:**
+**Acknowledgments:**
 
 * [**Mahmud Nabil**](https://github.com/NabilSnigdho), for the initial development of **Khipro.nmsLayout**.
 * [**Nabil Mustofa**](https://github.com/nabil-bot), for making the layout fully functional.
