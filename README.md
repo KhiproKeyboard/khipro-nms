@@ -5,3 +5,8 @@ To use **Khipro** on the **Nms Kontho** keyboard:
 3. Restart the Kontho keyboard, select the **Khipro layout**, and start typing in Bangla.
 
 **Note:** To get the full **Khipro experience** on **Kontho**, disable the keyboard’s **Typing Mode** (suggestion bar) and use it.
+
+**Acknowledgment:**
+
+* [**Mahmud Nabil**](@NabilSnigdho), for the initial development of the Khipro layout.
+* [**Nabil Mostofa**](@nabil-bot), for making the Khipro layout fully functional.
