@@ -8,5 +8,5 @@ To use **Khipro** on the **Nms Kontho** keyboard:
 
 **Acknowledgment:**
 
-* [**Mahmud Nabil**](@NabilSnigdho), for the initial development of the Khipro layout.
-* [**Nabil Mostofa**](@nabil-bot), for making the Khipro layout fully functional.
+* [**Mahmud Nabil**](https://github.com/NabilSnigdho), for the initial development of the Khipro layout.
+* [**Nabil Mustofa**](https://github.com/nabil-bot), for making the Khipro layout fully functional.
