@@ -9,4 +9,4 @@ To use **Khipro** on the **Nms Kontho** keyboard:
 **Acknowledgments:**
 
 * [**Mahmud Nabil**](https://github.com/NabilSnigdho), for the development of [Khipro.nmsLayout](https://github.com/NabilSnigdho/khipro-nms).
-* [**Nabil Mustofa**](https://github.com/nabil-bot), for making the layout fully functional.
+* [**Nabil Mustofa**](https://github.com/nabil-bot), for making several important mappings functional.
